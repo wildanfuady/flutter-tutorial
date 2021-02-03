@@ -1,6 +1,6 @@
-# flutter_tutorial
+# :wave:  Flutter Tutorial From Ilmu Coding  :wave:
 
-Contoh Tutorial Flutter Bahasa Indonesia
+Contoh Tutorial Flutter Bahasa Indonesia yang ditulis dan dikembangkan oleh Ilmu Coding. Download / clone repository ini sekarang!
 
 ## Getting Started
 
